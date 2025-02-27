@@ -209,25 +209,9 @@ Our LSTM model, enhanced with sentiment analysis features, achieved:
 
 For more detailed analysis, refer to the full project report in the `docs` directory.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 📧 Contact
 
 Iliass Rafk - iliassrafikpro@gmail.com
-
-Project Link: [https://github.com/yourusername/stock-market-prediction](https://github.com/yourusername/stock-market-prediction)
 
 ## 🙏 Acknowledgements
 
