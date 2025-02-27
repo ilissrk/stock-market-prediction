@@ -1,6 +1,5 @@
 # Real-Time Stock Market Prediction Using Sentiment Analysis
 
-![Project Banner](https://via.placeholder.com/800x200?text=Stock+Market+Prediction)
 
 ## 📊 Project Overview
 
@@ -226,7 +225,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Iliass Rafk - iliassrafikpro@gmail.com
 
 Project Link: [https://github.com/yourusername/stock-market-prediction](https://github.com/yourusername/stock-market-prediction)
 
