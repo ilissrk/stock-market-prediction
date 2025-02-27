@@ -1,0 +1,11 @@
+# .gitignore
+data/
+*.csv
+*.pkl
+*.h5
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+venv/
